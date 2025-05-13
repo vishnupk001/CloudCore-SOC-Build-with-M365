@@ -11,30 +11,30 @@ It reflects hands-on experience with enterprise-grade Microsoft technologies, cl
 ## 🧠 What I Did
 
 ### ✅ Domain and M365 Tenant Setup
-Registered a custom domain and connected it to Microsoft 365 via Cloudflare.
-Configured tenant-level settings and verified domain ownership.
+* Registered a custom domain and connected it to Microsoft 365 via Cloudflare.
+* Configured tenant-level settings and verified domain ownership.
 ### ✅ License Planning and Assignment
-Provisioned Microsoft 365 Business Premium, Defender for Endpoint P2, Defender for Office 365 P2, Entra ID P2, and more.
-Managed licenses through user and group-based assignment in Intune.
+* Provisioned Microsoft 365 Business Premium, Defender for Endpoint P2, Defender for Office 365 P2, Entra ID P2, and more.
+* Managed licenses through user and group-based assignment in Intune.
 ### ✅ Identity and Access Management
-Created users and roles with role-based access control (RBAC).
-Configured Conditional Access policies for Entra ID to enforce secure authentication across devices.
+* Created users and roles with role-based access control (RBAC).
+* Configured Conditional Access policies for Entra ID to enforce secure authentication across devices.
 ### ✅ Device Management & Hardening
-Integrated Autopilot for seamless Windows 11 onboarding.
-Applied CIS benchmark baseline policies via Intune using PowerShell automation.
-Onboarded Android and Windows devices with compliance controls.
+* Integrated Autopilot for seamless Windows 11 onboarding.
+* Applied CIS benchmark baseline policies via Intune using PowerShell automation.
+* Onboarded Android and Windows devices with compliance controls.
 ### ✅ Threat Protection
-Enabled and configured Microsoft Defender for Office 365 and Defender for Endpoint.
-Applied policy-based protection against phishing, malware, and endpoint threats.
+* Enabled and configured Microsoft Defender for Office 365 and Defender for Endpoint.
+* Applied policy-based protection against phishing, malware, and endpoint threats.
 ### ✅ SOC Automation with Azure Sentinel
-Created an automated pipeline using GitHub, Terraform, and Azure to deploy:
-Log Analytics Workspace
-Sentinel resources
-Data connectors for Defender, M365, Entra ID, and more
-Configured analytics rules, alerts, and log ingestion from multiple sources.
+* Created an automated pipeline using GitHub, Terraform, and Azure to deploy:
+* Log Analytics Workspace
+* Sentinel resources
+* Data connectors for Defender, M365, Entra ID, and more
+* Configured analytics rules, alerts, and log ingestion from multiple sources.
 ### ✅ SOAR (Security Orchestration, Automation & Response)
-Built playbooks using Azure Automation Runbooks.
-Automated brute-force attack response by detecting events, creating NSG rules, and sending alert notifications via email.
+* Built playbooks using Azure Automation Runbooks.
+* Automated brute-force attack response by detecting events, creating NSG rules, and sending alert notifications via email.
 
 ## 🧰 Technologies Used
 
@@ -56,4 +56,6 @@ By completing this project, I demonstrated:
 * Proficiency in integrating security operations, identity management, and endpoint protection.
 * Skill in combining manual configuration with Infrastructure as Code for scalable deployment.
 * Real-world experience with cloud-native SOC deployment and threat response orchestration.
+
+  
 
