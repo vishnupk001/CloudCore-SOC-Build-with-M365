@@ -2,7 +2,7 @@
 
 Architected and automated a secure, cloud-native organization from the ground up using Microsoft 365, Defender, Entra, Intune, and Azure Sentinel.
 
-Overview
+##Overview
 
 CloudCore SOC Build with M365 is a showcase of my end-to-end design and implementation of a secure, cloud-centric organization using the Microsoft 365 ecosystem. This project demonstrates my ability to plan, deploy, and manage a full-stack security architecture—from tenant setup to a fully integrated Security Operations Center (SOC) with automation.
 
